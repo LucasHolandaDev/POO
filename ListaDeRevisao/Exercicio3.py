@@ -23,3 +23,5 @@ if(a != b and a != c and a != d and b != c and b != d and c != d):
     print(f"Maior valor = {maiorvalor}")
     print(f"Menor valor = {menorvalor}")
     print(f"A soma do segundo maior valor com o segundo menor = {soma}")
+else:
+    print("Erro! Os valores inteiros devem ser diferentes")
